@@ -1,0 +1,788 @@
+commit baa837c9333ab4e27b61533b11c3d3447c8bd722
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 21:04:07 2020 +0200
+
+    add some errorchecking
+
+commit a942ec94e830ab0b53d136c9f1bb6526cf0ad882
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 20:24:12 2020 +0200
+
+    small fix
+
+commit 4642480451ae24ced8c1b138823c7edc2c2e0bce
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 20:17:13 2020 +0200
+
+    fix mobile move without selected member
+
+commit 949f39c04b06376bb671b32461c28de19bbf879a
+Merge: 2cc3006 c347803
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 20:03:16 2020 +0200
+
+    Merge branch 'master' of https://github.com/Westerdals/pro104-eksamen-Gruppe19
+
+commit 2cc3006fbdc10ad977fa7328ac99a5d3576c89e6
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 20:02:59 2020 +0200
+
+    fix body overflow
+
+commit c3478037c6ac49ceab980bed1997ac6a5b19dfeb
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Tue May 26 19:54:17 2020 +0200
+
+    mobile info image
+
+commit 890959132e4c80e924ed852f11ee1647fff0a3ef
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 18:39:49 2020 +0200
+
+    fix draggable problem after mobile updates
+
+commit 51c63a2a137f1a728ad35f91bedd0d61a909ffa8
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 18:12:53 2020 +0200
+
+    small fix
+
+commit d1088190cfd991972187f5709482bfc602e330a6
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 18:08:09 2020 +0200
+
+    make mobile clear button work
+
+commit 5ab90665f6b73b99dfd81ae41b90c54d861be40b
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 17:37:56 2020 +0200
+
+    make current viewed mobile list persist on reload
+
+commit 5882bc80d8c8e03c6eb408d1f3e97fc197604506
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 17:16:48 2020 +0200
+
+    add feature to move items on mobile
+
+commit 500ed0839d375d50d59084a10c6370b3207b0321
+Merge: 260f1a4 8ccdf1e
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 14:06:37 2020 +0200
+
+    Merge branch 'master' of https://github.com/Westerdals/pro104-eksamen-Gruppe19
+
+commit 260f1a4acfc488a5cd1ddbb63d4c1936d43c2663
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 14:06:11 2020 +0200
+
+    make clear buttons work
+
+commit 8ccdf1e283a0b3087875b30100e10820f23e871d
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Tue May 26 13:25:59 2020 +0200
+
+    file structure and "mime type" bug fix
+
+commit 887975b8aa8bf49aac94a2f2bd014a5eb86ced8f
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Tue May 26 13:18:08 2020 +0200
+
+    better mobile optimization
+
+commit 070dcc333a9d0cabe244ead6a36df3492aeed2f8
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Tue May 26 12:48:37 2020 +0200
+
+    Overlay css
+
+commit f9a862022785126bc5b55def0bc5afc0c32ed34c
+Merge: 8307a89 0c6cd7d
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 01:45:51 2020 +0200
+
+    Merge branch 'master' of https://github.com/Westerdals/pro104-eksamen-Gruppe19
+
+commit 8307a895e7f5521c31f4f038387bfa5cd901e746
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 26 01:44:23 2020 +0200
+
+    make entries persistent on reload
+
+commit 0c6cd7db29bb84519fd9360ea671319a656feb88
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Mon May 25 21:48:23 2020 +0200
+
+    info-web, final image
+
+commit 61e1d1e5d70584044314fbe30c817189ad3e8dd9
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Mon May 25 21:44:11 2020 +0200
+
+    New image
+
+commit 99efa5d2e6de0540f35834f28d195e7295e864f6
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Mon May 25 21:30:10 2020 +0200
+
+    change font to monospace with emoji as alternative to cover emojis, and make mobile prev and next buttons more visible
+
+commit d99aebe00ef7fa81717ee0e74f5ff3c91866905d
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Mon May 25 18:51:06 2020 +0200
+
+    info-image
+
+commit 30c616ed95aa9e9d8730952c2c88e025e5424325
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Mon May 25 17:48:22 2020 +0200
+
+    change size of description box close button
+
+commit 001d24536a545b7e6b408297e5084bd02b396f79
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Mon May 25 17:39:28 2020 +0200
+
+    fix displaying of ul elements when resizing window/viewport
+
+commit 2d4571f6c8682f6c93e9e8f16eaea436cb46c56b
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Mon May 25 17:07:18 2020 +0200
+
+    fix merge with branch: Noor
+
+commit af035c001de7269c8f37beea377b94345a410777
+Merge: ead0318 7e6ab82
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Mon May 25 15:33:55 2020 +0200
+
+    Merge branch 'Noor' of https://github.com/Westerdals/pro104-eksamen-Gruppe19 into Noor
+
+commit ead0318d31d201952af85e4852bafeb96b949fc9
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Mon May 25 15:11:30 2020 +0200
+
+    css improvements
+
+commit 7e6ab829ce87318dfa8e3dca2e115bae36e2b4b9
+Author: JNatamna <noor.atamna@gmail.com>
+Date:   Mon May 25 14:44:19 2020 +0200
+
+    added mobile buttons functonality
+
+commit 0b90b51c6ef791a6e1b90edf84661b3ea87b938e
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Mon May 25 14:04:50 2020 +0200
+
+    change alignment of buttons
+
+commit 74531ef565cdf90075c54e4473bb7e587de6b2aa
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Mon May 25 13:21:59 2020 +0200
+
+    change placement of member add button
+
+commit df0801c0a653b7738ddf74d19dce5f72b991f510
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Mon May 25 12:57:21 2020 +0200
+
+    fix input boxes sizing by changing form container to div
+
+commit 65e8461377189260fff66d9a0477352caa48ce69
+Merge: 36e0e42 0a1d858
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Mon May 25 12:33:12 2020 +0200
+
+    merge with branch: markus. for new task item layout and task description feature
+
+commit 0a1d858e1dfc3f7be04f12d9f61e47fdcc49c86e
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Mon May 25 10:40:40 2020 +0200
+
+    description will show task name as header
+
+commit 7cd3824ef59917757fd5f33e9b5773eab12eb287
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 21:41:47 2020 +0200
+
+    change task item alignment back to center, works better in mobile version
+
+commit 1382bbb7c718d96ae6e730a65413f81e7e26051d
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 21:35:16 2020 +0200
+
+    change alignment of task input to flex baseline
+
+commit 5ae4cc003dd64bb8076d32c6761a360d01ec7b8b
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 20:59:07 2020 +0200
+
+    make task list entries more organized & add description button that shows task description
+
+commit 36e0e42603dd242ee8761d3160260a370b1c961a
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Sun May 24 18:50:07 2020 +0200
+
+    minor changes
+
+commit 7cba93de6feb93a894c8e968f713a7de17449aac
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Sun May 24 16:57:37 2020 +0200
+
+    small css fix
+
+commit 4734bac410589b456bead455ca7882d2d3aae5aa
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Sun May 24 16:56:11 2020 +0200
+
+    more css fixes
+
+commit cf696ea29b2489660394cbbf0f29983af10ca3b8
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Sun May 24 16:32:27 2020 +0200
+
+    css changes
+
+commit 4f83bf822650fa2fa9a80ed99b440455e3372f68
+Merge: 9514b4f 2afb2cf
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Sun May 24 16:28:50 2020 +0200
+
+    Merge branch 'Fredrik'
+
+commit 2afb2cf074a98e2a12e7f640a9e91800397456f9
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Sun May 24 16:27:21 2020 +0200
+
+    Better css omptimization
+
+commit 9514b4fc5cbf434708512dacae2f739a4f7380ae
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 15:49:45 2020 +0200
+
+    fix wrapping of team member add btn
+
+commit 24e1e5b5bd3d2ae59f105dd539d3c7f1abdd6e73
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 15:39:37 2020 +0200
+
+    fix team member input bottom border width
+
+commit c5085aeb2153328ccda94d57d1ed61e6ed54cd94
+Merge: 64bb852 a43d638
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 15:32:27 2020 +0200
+
+    fix merge conflict with markus
+
+commit a43d6388827a057e1ac18569d162772210d12891
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 15:30:34 2020 +0200
+
+    fix team member add button so it doesn't squash when resizing window
+
+commit 64bb8520d5e1f0b90d8c1de0a16ca486d5daccda
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 14:49:22 2020 +0200
+
+    hide mobile clear button when on desktop
+
+commit 6e8fbeb98b148bc2e6f602964cdb07101826f4a0
+Merge: f5688da 566db45
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 14:19:18 2020 +0200
+
+    Merge branch 'markus'
+
+commit 566db45df0ee59f73298548caa7776481b125072
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sun May 24 14:18:43 2020 +0200
+
+    add emojis to team member list names
+
+commit f5688da85f07fb51b51bcd9ad3e8be704098d589
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sat May 23 16:13:09 2020 +0200
+
+    fix add button after merge
+
+commit 80ee8f11a2b50883a1b39a39dbd6fe8c34cf6e23
+Merge: 2a78912 e6b6d23
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Sat May 23 15:44:41 2020 +0200
+
+    css for mobile
+
+commit 2a7891230978bed9b39300b2f788d67b29f6c7ed
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Sat May 23 15:30:26 2020 +0200
+
+    css for mobile
+
+commit e6b6d2353958415e0776bcb4a060f229484a4504
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sat May 23 13:52:41 2020 +0200
+
+    change layout of li elements
+
+commit e95c777ea7790f68c50b990b1d274cacc2542298
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sat May 23 11:58:08 2020 +0200
+
+    make bottom border for ul headings
+
+commit fa9a708176d9d9ec20fec43870b6c822dab63e86
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sat May 23 00:06:02 2020 +0200
+
+    make important tasks have bold text
+
+commit 279c7e461db2e2de119ecfefca82e966dbbf9cd0
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Sat May 23 00:01:19 2020 +0200
+
+    add flag glyph for tasks marked as important
+
+commit 333cbc6dcaaf3d86578c4e99c6779096ac796cf3
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 23:35:00 2020 +0200
+
+    make add buttons same style as everything else
+
+commit fe1d4d4797193d00f3f41590d8c48f07bec5d785
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 21:48:43 2020 +0200
+
+    make many small fixes and change input layout
+
+commit eb0eeeb4bfaf041b14cf2ed21e932771d9df765f
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 20:21:28 2020 +0200
+
+    readd scroll overflow for body
+
+commit 647f7a8ada07a69767ce0848e01b7016d162f37c
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 20:09:09 2020 +0200
+
+    fix bug that lets user add task without every field filled in
+
+commit 85e4a314c94d5749860cd1b3f81dcd387dafc0bc
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 18:44:13 2020 +0200
+
+    fix bug with dropdown being draggable when deleting member
+
+commit 7fa038d72df21df8732d1a5898e8fff3fe4cb0d3
+Merge: f7108df 21fbbe0
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Fri May 22 18:12:54 2020 +0200
+
+    Merge branch 'Fredrik'
+
+commit 21fbbe0c7f8d87c73651ab5a594ba0d8e1248145
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Fri May 22 18:10:55 2020 +0200
+
+    changes in css layout
+
+commit f7108df75a492c19c42e92a5ce67cc19987c10b0
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 18:01:43 2020 +0200
+
+    update bordercolor of dropdowns accordingly
+
+commit 3e75cceac828a6883bc3098f87c83ce9cec85cd5
+Merge: ebd3547 be233c8
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 17:47:54 2020 +0200
+
+    Merge branch 'markus'
+
+commit ebd3547c7ee59cd162ad17154752e87a38b9c49d
+Merge: f9e2107 60f4b83
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 17:43:07 2020 +0200
+
+    Merge branch 'master' of https://github.com/Westerdals/pro104-eksamen-Gruppe19
+
+commit be233c82dfec18cd8b24f9cc49a9eea5046d1410
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 17:41:03 2020 +0200
+
+    make dropdown lists refresh when user adds or removes team member
+
+commit 4d7cff4eb8394f9e91be69a0ab017c9420d2afb5
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 16:21:35 2020 +0200
+
+    make member dropdown selection always default to '[NONE SELECTED]'
+
+commit 5cca342fc6a2329c6e9c2b337c7357ae2846aade
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 16:17:36 2020 +0200
+
+    make list items's text non selectable
+
+commit 2d079a8eca36ec85a821345de9257a377c985893
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 16:16:47 2020 +0200
+
+    improve UX for dragging, with different cursor symbols
+
+commit 4c3a91ed3e02f6c0906eaf767b8eead4855732cd
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 15:34:21 2020 +0200
+
+    add requirement for selected member, in order to drag task
+
+commit 60f4b83d1ff518b25cf4bb619679fa3bb62be241
+Author: Lasse <59687615+nmyn@users.noreply.github.com>
+Date:   Fri May 22 14:58:12 2020 +0200
+
+    Bold number in text box
+
+commit c7ad6164efd6aadaaeb9b40fce9a529d8883480f
+Author: Lasse <59687615+nmyn@users.noreply.github.com>
+Date:   Fri May 22 14:20:18 2020 +0200
+
+    Changed px to rem units on infobutton & info boxes
+
+commit f9e2107012280b4ed92cc84cedb09926cd232329
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 13:39:50 2020 +0200
+
+    center align input labels
+
+commit 31ede777b8265c36967f023f177c4574623404ce
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 13:35:21 2020 +0200
+
+    rename file containing app back to index.html
+
+commit e7b9c7fe0dbf7ee753d348564441fd129460f7aa
+Merge: 1183ae8 a483ece
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 22 13:26:42 2020 +0200
+
+    Merge branch 'master' into markus
+
+commit a483ece2126848999657d03258d3e9760ffb2de2
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Thu May 21 18:03:09 2020 +0200
+
+    Change color of info-btn
+
+commit 1dd8bc9141bb6aaec75642576bf583868fefaedc
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Thu May 21 17:22:00 2020 +0200
+
+    Info
+
+commit 5b526ccb2a27f30e3d20c5c2bbadbd38c9d0ce71
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Thu May 21 15:11:21 2020 +0200
+
+    updated styling and "important" tagging
+
+commit c11296afeec2559056d1be9a202719099bc0118f
+Merge: a419fd7 f9d92bb
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Thu May 21 12:25:27 2020 +0200
+
+    Merge branch 'master' into Fredrik
+
+commit f9d92bb639f2f14f7b649cc8fa30545ce89c41dd
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Thu May 21 12:17:21 2020 +0200
+
+    bug fix
+
+commit 90609c0acc45c50c1fd60b2ccb33a82eade2bd4c
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Wed May 20 21:18:30 2020 +0200
+
+    improved error handling
+
+commit 2a8d6fa18d12e963c12c06ae4ebeae6097f08141
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Wed May 20 20:59:14 2020 +0200
+
+    code improvements and error handling
+
+commit 1183ae81566b0d606b6e030f7d98119a68cb3264
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Wed May 20 19:49:50 2020 +0200
+
+    rename index.html -> teamTaskManager.html, welcome site will be index.html
+
+commit 45a79830771e05d09694c48b7f6a195398960e4b
+Merge: ce05907 da6730e
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Wed May 20 19:41:20 2020 +0200
+
+    Merge branch 'master' of https://github.com/Westerdals/pro104-eksamen-Gruppe19
+
+commit ce059073853a8a1feb1cf1dd474508cfb980a722
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Wed May 20 19:40:55 2020 +0200
+
+    fix invalid comment syntax
+
+commit da6730e1378aba2d724dbefca39b0f6d3b6318d7
+Merge: 470829b 512c548
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Wed May 20 19:36:00 2020 +0200
+
+    Merge branch 'master' of https://github.com/Westerdals/pro104-eksamen-Gruppe19
+
+commit 470829b044f5501d19f554624120c5c86ad8c1ba
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Wed May 20 19:35:53 2020 +0200
+
+    Dropdown menu added to all li's - in queue
+
+commit 512c5481953e8638ae4b11dd0f6097d949749374
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Wed May 20 19:31:47 2020 +0200
+
+    minor changes to delete button
+
+commit 1c631b6afb8d39787b4091ccdc5ef95c4e2f039e
+Merge: 3c6799b aad979a
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Wed May 20 19:06:48 2020 +0200
+
+    merge with markus branch for different styling
+
+commit aad979a3a27f22abcea6e734ef9fd4b91caee044
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Wed May 20 18:55:11 2020 +0200
+
+    remove console output & green border when dragging
+
+commit d6b644c12ad692be7c3d87f0c804fe1e8a3d291f
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Wed May 20 18:30:55 2020 +0200
+
+    add some backupfiles
+
+commit 3c6799b98010cf6bb49d0e971c3e0e8f524afdc8
+Author: JNatamna <noor.atamna@gmail.com>
+Date:   Wed May 20 18:08:36 2020 +0200
+
+    mobile stylesheet
+
+commit 5394b4c27db0e0fb301a1d30cb3a9c8ed1814065
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Wed May 20 18:04:45 2020 +0200
+
+    minor changes in code
+
+commit 9c7878649dba3be9b403e150e3fa035654fe2354
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Wed May 20 17:16:54 2020 +0200
+
+    bug fixes
+
+commit a419fd72fc4bc079e6a88a7a222d9deadd9f6cb7
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Wed May 20 16:49:56 2020 +0200
+
+    css bugfix
+
+commit 08c7eb9d6665724ab5ba80e4f53e66013c1969a1
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Wed May 20 15:31:26 2020 +0200
+
+    change css to make everything more distinct and nice
+
+commit 637f7f8a6ef1020e4f98e288660946972093ad63
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Wed May 20 15:11:31 2020 +0200
+
+    Skrivefeil
+
+commit 4e7c95a0fc809e818c37834b8d5ded960db01044
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Wed May 20 15:02:51 2020 +0200
+
+    Forslag til hvordan info-knappen kan vise.
+
+commit a5a6e5d8a83acfcbfd41994331b518a4377b65a2
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 19 22:22:52 2020 +0200
+
+    fix indent bug with delete button
+
+commit 0391fa78dd3b52d58ecc32e7cee5bb5638305d6b
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 19 22:17:09 2020 +0200
+
+    remove drag&drop green border when dropping item
+
+commit b8e1f549b9e1a8f22cfcb0f1eabafdb492f2f3c5
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 19 22:04:08 2020 +0200
+
+    fix delete buttons, they sometimes didnt load css properly
+
+commit fa8226715ff992661839a63c673551917d313410
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 19 21:10:50 2020 +0200
+
+    make delete button float to the right side of li
+
+commit 13c6f81b34bf42cf2741757eeaed2ad897bd1b3a
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Tue May 19 18:57:31 2020 +0200
+
+    file has been split up
+
+commit 4c983d2051770295f7058d244b32cee4d2b02815
+Merge: 64f19f4 8b41e6a
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Tue May 19 18:56:46 2020 +0200
+
+    Merge branch 'master' of https://github.com/Westerdals/pro104-eksamen-Gruppe19
+
+commit 64f19f40a5488637f9cb4f82a99a7f6ce88b44d8
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Tue May 19 18:55:45 2020 +0200
+
+    cleanup in file structure
+
+commit 8b41e6a8c331de81085bd0389e6762d12d31a966
+Merge: fc3b98a f39fc7d
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 19 18:35:23 2020 +0200
+
+    merge with markus, for delete function
+
+commit f39fc7db847899f81c8bc0e3268a3a3c97503873
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 19 17:57:10 2020 +0200
+
+    add delete item feature
+
+commit fc3b98a5d427a3a6749ba8b857325ea9e9740dce
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Tue May 19 17:04:04 2020 +0200
+
+    Info-btn // js, css, html. (start). Innhold må diskuteres.
+
+commit 65b02809c0151128b0c358cd171ba01042557cbb
+Author: SimenKandahl <56083305+SimenKandahl@users.noreply.github.com>
+Date:   Tue May 19 16:51:56 2020 +0200
+
+    info-btn image
+
+commit caf79fec6b77c374202af8633cdbb2dbc8d8dce5
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Tue May 19 13:40:32 2020 +0200
+
+    change how draggables get their class, minor change
+
+commit bee2c12846e8ec94232cd449ffe973723f9c735a
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Mon May 18 00:30:24 2020 +0200
+
+    file structure
+
+commit 35a7458d12dc273aed83438f3210fbaaad0fcaf4
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 15 16:10:19 2020 +0200
+
+    comment dragging functionality
+
+commit ba8ae6e63af3dd2c5bdf0c415333e6cee2ba6244
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 15 16:04:29 2020 +0200
+
+    make draggables sortable
+
+commit c1eb27df09badc4914279db1e2be92052db9e3e7
+Merge: 50ca7e3 010abc1
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 15 15:23:02 2020 +0200
+
+    Merge branch 'markus'
+
+commit 010abc1e75fe7a1243ade60ad63d331abe5b5eed
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 15 15:18:09 2020 +0200
+
+    add basic dragging functionality
+
+commit 50ca7e3bb530d0864113fa91a3ef5f1d31b4a06f
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Fri May 15 14:02:04 2020 +0200
+
+    updated old file
+
+commit 831331a0c4f134389bd1d5e93cc01ef4c3ccff39
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Fri May 15 13:55:05 2020 +0200
+
+    updated file structure
+
+commit dbdfc93c0bdaaab35e8efe3b2abde1253f1cd7ad
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Fri May 15 13:50:25 2020 +0200
+
+    updated task input functionality for new project
+
+commit 2e21692e1f9064ba1d48a53f66fe13eb99b3e794
+Merge: 9f2183d 8b37a5c
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Fri May 15 13:28:30 2020 +0200
+
+    Merge branch 'master' into Markus
+
+commit 9f2183d35110b86cab6d145c0f8cccc60ee28c40
+Author: widdzor <markus.somhovd@gmail.com>
+Date:   Fri May 15 13:19:35 2020 +0200
+
+    new file for adding task to queue
+
+commit 8b37a5c1f8ba053f4a3917e56b9ef5f369e9d043
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Fri May 15 13:15:50 2020 +0200
+
+    adapted old code to new project
+
+commit bc8d9c388dfcbd2dd4f323fa34496e0fa860165f
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Thu May 14 20:59:47 2020 +0200
+
+    flex adjustments
+
+commit 0305a84c281e8e8d4e4176c9d5989f4a8eeb8d63
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Thu May 14 15:54:22 2020 +0200
+
+    changed size of grid 2
+
+commit bc2d0f351aada53d153cdc8a12d7ef20cfac813b
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Thu May 14 15:49:31 2020 +0200
+
+    Updated css from previous project
+
+commit 1ff96f948b8d65adad29c25937a75de9cd89489e
+Author: Lasse <59687615+nmyn@users.noreply.github.com>
+Date:   Wed May 13 23:18:49 2020 +0200
+
+    New HTML and CSS for project.
+
+commit 2f45a00d8914e9aff3ee7bad7eb1310507e72488
+Author: widdzor <mawid@protonmail.com>
+Date:   Wed May 13 16:41:43 2020 +0200
+
+    update README.md
+
+commit 6e7e8b3db29e962ddd8d1410bbdd974b6ea299cb
+Author: Fredrik <fredrik.skogstad94@gmail.com>
+Date:   Wed May 13 16:05:40 2020 +0200
+
+    Starter files
