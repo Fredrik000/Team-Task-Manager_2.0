@@ -1,0 +1,181 @@
+/* Monitors */
+@media screen and (min-width: 1025px) {
+
+    /* Overlay Image */
+    #overlay {
+        background-image: url(../images/info-web-image.png);
+    }
+
+    /* Input-area Styling */
+    .task-input-container {
+        width: 25%;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    .task-input {
+        width: 100%;
+    }
+
+    #task-desc-input {
+        min-height: 8rem;
+        max-height: 8rem;
+    }
+
+    /* Output-area Styling */
+    /* Grid styling */
+    .output-container {
+        display: grid;
+        grid-template-columns: 0.5fr 1fr 1fr 0.5fr;
+        justify-content: center;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    /* Team-member-output styling */
+    .team-member-container {
+        margin-right: 0.5rem;
+    }
+
+    .team-member-ul {
+        min-height: 40vh;
+        margin-right: 0.5rem;
+    }
+
+    /* In-Queue-output styling */
+    .in-queue-container {
+        margin-right: 1.5rem;
+    }
+
+    .in-queue-ul {
+        min-height: 40vh;
+    }
+
+    /* In-Progress-output styling */
+    .in-progress-container {
+        margin-right: 1.5rem;
+    }
+
+    .in-progress-ul {
+        min-height: 40vh;
+    }
+
+    /* Resolved-output styling */
+    .resolved-ul {
+        min-height: 40vh;
+        max-width: 20vw;
+    }
+
+    /* Hide mobile previous/next buttons */
+    .mobile-buttons {
+        display: none;
+    }
+}
+
+/* Smartphones And Tablets */
+@media screen and (max-width: 1024px) {
+
+    h1 {
+        align-items: center;
+        font-size: 1.5rem;
+    }
+
+    h3 {
+        align-items: center;
+        font-size: 1rem;
+        margin-right: 0;
+    }
+
+    ul {
+        box-shadow: none;
+        min-height: 45vh;
+        max-height: 50vh;
+    }
+
+    /* Overlay Image */
+    #overlay {
+        background-image: url(../images/info-mobile-image.png);
+    }
+
+    /* Input-area styling */
+    .input-form-container {
+        flex-direction: column;
+    }
+
+    .input-form-container>label {
+        font-size: 1rem;
+    }
+
+    .task-input-container {
+        width: 100%;
+    }
+
+    .task-input-container>input {
+        text-align: center;
+        width: 75%;
+        padding: 0;
+    }
+
+    .team-member-input>input {
+        width: 100%;
+    }
+
+    /* Output-area styling */
+    .output-container {
+        align-items: center;
+        text-align: center;
+    }
+
+    /* Hides the ul's as default. Visible ul is set with JS */
+    .team-member-container,
+    .in-queue-container,
+    .resolved-container,
+    .in-progress-container {
+        display: none;
+    }
+
+    /* Next & previous buttons */
+    .mobile-buttons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .mobile-clear-btn {
+        width: 50%;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    #prev,
+    #next {
+        cursor: pointer;
+        user-select: none;
+
+        margin-bottom: 0.3rem;
+        top: 40%;
+        width: auto;
+
+        color: #FFCE2D;
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
+    #prev {
+        margin-right: 3rem;
+    }
+
+    #next {
+        margin-left: 3rem;
+    }
+
+    /* Hide clear buttons for non-mobile version */
+    .clear-btn {
+        display: none;
+    }
+
+    #add-task-btn {
+        margin-bottom: 0.5rem;
+    }
+
+}
