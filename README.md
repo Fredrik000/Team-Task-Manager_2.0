@@ -1,12 +1,4 @@
-Eksamen - Gruppe 19
+# Team Task-Manager 2.0
 
-GitHub-repo: https://github.com/Westerdals/pro104-eksamen-Gruppe19
-GitHub-pages: https://westerdals.github.io/pro104-eksamen-Gruppe19/
-
-
-Deltagende gruppemedlemmer:
-Fredrik Skogstad
-Lasse Eidsheim
-Simen Kandahl
-Noor Atamna
-Markus Sømhovd
+Simple task manager that lets the user input names of team-members, 
+and assign different tasks to them.
